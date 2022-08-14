@@ -1,7 +1,7 @@
 - 👋 Olá, eu sou o Thullyo Damasceno!
 - 👀 Me interesso por Desenvolvimento Web;
 - 🌱 Atualmente estou estudando ECMAScript 6+;
-- 🎄 Pretendo estudar TypeScript e Vue.js;
+- 🎄 As próximas tecnologias que pretendo estudar são: TypeScript e Vue.js;
 - 🙋‍♂️ Busco participar de projetos para adquirir experiência com as tecnologias e com o trabalho em equipe;
 - 📫 Para entrar em contato comigo, basta enviar um e-mail para thullyodamasceno.3@gmail.com.
 
