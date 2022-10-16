@@ -6,7 +6,7 @@
   I like to develop projects and especially with teamwork. I've been studying frontend web development for months and I'm currently producing solutions for some <a href="https://www.frontendmentor.io/profile/thullyoufrn" target="_blank">Frontend Mentor</a> challenges. I'm open to joining a project or internship to gain experience with technologies and teamwork! 🙋‍♂️
 </p>
 <p>
-   I also love playing basketball 🏀 and I'm a calisthenics 🤸‍♂️ enthusiast! 😃
+   I also love playing basketball 🏀 and I'm a calisthenics 🤸‍♂️ enthusiast!
 </p>
 
 <hr>
@@ -23,10 +23,10 @@
 
 <hr>
 
-<h3>Let's Connect 🙂</h3> 
+<h3>Let's Connect 😃</h3> 
 <div>
-  <a href = "mailto:leandromllr9@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="gmail">
+  <a href="mailto: thullyodamasceno.3@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/thullyo-damasceno-375083231/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
