@@ -8,7 +8,7 @@
   I like to develop projects and especially with teamwork. I've been studying frontend web development for months and I'm currently producing solutions for some <a href="https://www.frontendmentor.io/profile/thullyoufrn" target="_blank">Frontend Mentor</a> challenges. I'm open to joining a project or internship to gain experience with technologies and teamwork! 🙋‍♂️
 </p>
 <p>
-   I also love playing basketball 🏀 and I'am a calisthenics 🤸‍♂️ enthusiast! 😃
+   I also love playing basketball 🏀 and I'm a calisthenics 🤸‍♂️ enthusiast! 😃
 </p>
 
 <hr>
