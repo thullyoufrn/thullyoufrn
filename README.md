@@ -13,7 +13,7 @@
 
 <hr>
 
-<h3>Languages & Tools I Use:</h3>
+<h3>Languages & Tools I Use</h3>
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -25,7 +25,7 @@
 
 <hr>
 
-<h3>Let's Connect:</h3> 
+<h3>Let's Connect 🙂</h3> 
 <div>
   <a href = "mailto:leandromllr9@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="gmail">
