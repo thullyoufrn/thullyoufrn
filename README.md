@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I’m Thullyo 👋</h1> 
 <h2 align="center">Frontend Web Developer</h2>
 
+<hr>
+
 <h3>Tell Me a Little Bit About Yourself 😎</h3>
 <p>
   I like to develop projects and especially with teamwork. I've been studying frontend web development for months and I'm currently producing solutions for some <a href="https://www.frontendmentor.io/profile/thullyoufrn" target="_blank">Frontend Mentor</a> challenges.
@@ -8,6 +10,8 @@
 <p>
   I'm open to joining a project or internship to gain experience with technologies and teamwork! 🙋‍♂️ 
 </p>
+
+<hr>
 
 <h3>Languages & Tools I Use:</h3>
 <div>
@@ -19,7 +23,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="35" height="35"/>
 </div>
 
-<h3>Let's Connect:</h3>  
+<hr>
+
+<h3>Let's Connect:</h3> 
 <div>
   <a href = "mailto:leandromllr9@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="gmail">
