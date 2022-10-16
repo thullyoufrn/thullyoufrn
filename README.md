@@ -1,8 +1,13 @@
 <h1 align="center">Hi, I’m Thullyo 👋</h1> 
 <h2 align="center">Frontend Web Developer</h2>
 
-<!-- ➢ 🙋‍♂️ Busco participar de projetos para adquirir experiência com as tecnologias e com o trabalho em equipe;
-➢ 📫 Para entrar em contato comigo, basta enviar um e-mail para thullyodamasceno.3@gmail.com. -->
+<h3>Tell Me a Little Bit About Yourself 😎</h3>
+<p>
+  I like to develop projects and especially with teamwork. I've been studying frontend web development for months and I'm currently producing solutions for some <a href="https://www.frontendmentor.io/profile/thullyoufrn" target="_blank">Frontend Mentor</a> challenges.
+</p>
+<p>
+  I'm open to joining a project or internship to gain experience with technologies and teamwork! 🙋‍♂️ 
+</p>
 
 <h3>Languages & Tools I Use:</h3>
 <div>
@@ -16,15 +21,10 @@
 
 <h3>Let's Connect:</h3>  
 <div>
-
-  <!-- Gmail -->
   <a href = "mailto:leandromllr9@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="gmail">
   </a>
-
-  <!-- Linkedin -->
   <a href="https://www.linkedin.com/in/thullyo-damasceno-375083231/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
-  
 </div>
