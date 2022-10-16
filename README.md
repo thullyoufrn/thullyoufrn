@@ -5,10 +5,10 @@
 
 <h3>Tell Me a Little Bit About Yourself 😎</h3>
 <p>
-  I like to develop projects and especially with teamwork. I've been studying frontend web development for months and I'm currently producing solutions for some <a href="https://www.frontendmentor.io/profile/thullyoufrn" target="_blank">Frontend Mentor</a> challenges.
+  I like to develop projects and especially with teamwork. I've been studying frontend web development for months and I'm currently producing solutions for some <a href="https://www.frontendmentor.io/profile/thullyoufrn" target="_blank">Frontend Mentor</a> challenges. I'm open to joining a project or internship to gain experience with technologies and teamwork! 🙋‍♂️
 </p>
 <p>
-  I'm open to joining a project or internship to gain experience with technologies and teamwork! 🙋‍♂️ 
+   I also love playing basketball 🏀 and I'am a calisthenics 🤸‍♂️ enthusiast! 😃
 </p>
 
 <hr>
