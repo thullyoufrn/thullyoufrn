@@ -23,12 +23,6 @@
 
 <hr>
 
-<h3>📺 YouTube Videos</h3>
-  [![Minicurso de Apps Script]
-  ()]
-  ()
-<hr>
-
 <h3>Let's Connect 😃</h3> 
 <div>
   <a href="https://www.linkedin.com/in/thullyo-damasceno-375083231/" target="_blank">
