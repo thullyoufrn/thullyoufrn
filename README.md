@@ -23,9 +23,10 @@
 
 <hr>
 
-<h3>📺 YouTube Videos<h3/>
-[![Minicurso de Apps Script](THUMBNAIL MINICURSO APPSCRIPT (2).jpg)](https://www.youtube.com/watch?v=n5cV5N3xpXA&t=236s)
-
+<h3>📺 YouTube Videos</h3>
+  [![Minicurso de Apps Script]
+  ()]
+  ()
 <hr>
 
 <h3>Let's Connect 😃</h3> 
