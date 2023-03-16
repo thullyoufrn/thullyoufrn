@@ -3,7 +3,7 @@
 
 <h3>Tell Me a Little Bit About Yourself 😎</h3>
 <p>
-  I like to develop projects and especially with teamwork. I've been studying frontend web development for months and I'm currently producing solutions for some <a href="https://www.frontendmentor.io/profile/thullyoufrn" target="_blank">Frontend Mentor</a> challenges. I'm open to joining a project or internship to gain experience with technologies and teamwork! 🙋‍♂️
+  Founder of a university programming nucleus. Working with frontend development since 2022, developing for projects that add value to university students and society. A true lover of knowledge and new challenges, always looking to learn more and share information.
 </p>
 <p>
    I also love playing basketball 🏀 and I'm a calisthenics 🤸‍♂️ enthusiast!
