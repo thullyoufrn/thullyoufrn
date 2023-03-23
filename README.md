@@ -31,3 +31,13 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
 </div>
+
+<hr>
+
+<h3>Check my JavaScript short course</h3>
+<a href="https://youtu.be/n5cV5N3xpXA">https://youtu.be/n5cV5N3xpXA</a>
+
+<hr>
+
+<img src="https://user-images.githubusercontent.com/77694067/227220153-f5d1863f-9939-48a7-adfc-91d9899eb9a9.png" />
+
