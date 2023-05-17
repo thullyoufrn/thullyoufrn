@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I’m Thullyo 👋</h1> 
+<h1 align="center">Hi, I’m Thullyo! 👋</h1> 
 <h2 align="center">Frontend Developer</h2>
 
 <h3>Tell Me a Little Bit About Yourself 😎</h3>
