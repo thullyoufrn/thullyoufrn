@@ -6,7 +6,7 @@
   Founder of a university programming nucleus. Working with frontend development since 2022, developing for projects that add value to university students and society. A true lover of knowledge and new challenges, always looking to learn more and share information.
 </p>
 <p>
-   I also love playing basketball 🏀 and I'm a calisthenics 🤸‍♂️ enthusiast!
+   I also love playing basketball 🏀 and I'm a calisthenics 🤸‍♂️ enthusiast.
 </p>
 
 <hr>
