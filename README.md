@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I’m Thullyo! 👋</h1> 
-<h2 align="center">Software Engineer</h2>
+# Hi, I’m Thullyo! 👋
+## Software Engineer
 
-<h3>Tell Me a Little Bit About Yourself 😎</h3>
+### Tell Me a Little Bit About Yourself 😎
 <p>
   Founder of a university programming nucleus. Working with frontend development since 2022, developing for projects that add value to university students and society. A true lover of knowledge and new challenges, always looking to learn more and share information.
 </p>
@@ -11,7 +11,7 @@
 
 <hr>
 
-<h3>Languages & Tools I Use</h3>
+ Languages & Tools I Use
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -25,7 +25,7 @@
 
 <hr>
 
-<h3>Let's Connect 😃</h3> 
+### Let's Connect 😃
 <div>
   <a href="https://www.linkedin.com/in/thullyo-damasceno-375083231/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
@@ -34,8 +34,8 @@
 
 <hr>
 
-<h3>Check my JavaScript short course</h3>
-<a href="https://youtu.be/n5cV5N3xpXA">https://youtu.be/n5cV5N3xpXA</a>
+### Check my JavaScript short course
+YouTube video: <a href="https://youtu.be/n5cV5N3xpXA">https://youtu.be/n5cV5N3xpXA</a>
 
 <hr>
 
