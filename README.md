@@ -35,7 +35,7 @@
 <hr>
 
 ### Check my JavaScript short course
-YouTube video: [<a href="https://youtu.be/n5cV5N3xpXA" target="blank" >https://youtu.be/n5cV5N3xpXA</a>](https://youtu.be/n5cV5N3xpXA?si=AkHuftxBxnpj8LIB)
+YouTube video: [<a href="https://youtu.be/n5cV5N3xpXA" target="_blank" >https://youtu.be/n5cV5N3xpXA</a>](https://youtu.be/n5cV5N3xpXA?si=AkHuftxBxnpj8LIB)
 
 <hr>
 
